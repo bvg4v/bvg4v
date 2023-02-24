@@ -1,10 +1,10 @@
 ### THIS IS OUR SIMPLE KERNEL MODULE
 ##TEAM MEMBERS:
-##Daniyar Zholkobaev
-##Dana Adil
-##Asel Kumarbekova
-##Nurmukhammed Bayrzhanov
-##Zhadira Adil
+Daniyar Zholkobaev
+Dana Adil
+Asel Kumarbekova
+Nurmukhammed Bayrzhanov
+Zhadira Adil
 
 <!--
 **bvg4v/bvg4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
